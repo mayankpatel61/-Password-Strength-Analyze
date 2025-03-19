@@ -78,8 +78,8 @@ For the full license text, see [LICENSE](LICENSE).
 
 For questions, feedback, or collaborations, feel free to reach out:
 
-- **GitHub**: [your-username](https://github.com/mayankpatel61)  
-- **Email**: your-@example.com  
-- **LinkedIn**: [Your Name](https://www.linkedin.com/in/mayankpatel61)  
-- **Twitter**: [@your-handle](https://twitter.com/mayankpatel61)  
+- **GitHub**: [mayankpatel61](https://github.com/mayankpatel61)  
+- **Email**: darksprit.mp@gmail.com  
+- **LinkedIn**: [mayankpatel61](https://www.linkedin.com/in/mayankpatel61)  
+- **Twitter**: [@mayankpaatel61](https://twitter.com/mayankpatel61)  
    
