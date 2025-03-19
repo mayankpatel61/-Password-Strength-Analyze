@@ -40,23 +40,29 @@ This project is a **Python-based tool** that evaluates the strength of a passwor
 ## Screenshots
 
 ### Main Window
-![Main Window](screenshots/main_window.png)  
+![Image](https://github.com/user-attachments/assets/62090ad3-8eeb-44b2-9271-7629c7e655f7) 
+
 *The main interface of the Password Strength Analyzer.*
 
 ### Weak Password
-![Weak Password](screenshots/weak_password.png)  
+
+![Image](https://github.com/user-attachments/assets/90073b23-466d-4a92-8bf8-fd1b5630e207)
+
 *Feedback for a weak password (red color).*
 
 ### Moderate Password
-![Moderate Password](screenshots/moderate_password.png)  
+![Image](https://github.com/user-attachments/assets/06fee5ba-2d18-4089-adbd-d69504a07382)
+
 *Feedback for a moderate password (orange color).*
 
 ### Strong Password
-![Strong Password](screenshots/strong_password.png)  
+![Image](https://github.com/user-attachments/assets/cf95263d-fb4d-4b78-aeec-843d5c2b11f9)
+![Image](https://github.com/user-attachments/assets/6154cb61-6b36-420c-bc00-c8c9498dd748)
+
 *Feedback for a strong password (green color).*
 
 ### Save Results
-![Save Results](screenshots/save_results.png)  
+![Image](https://github.com/user-attachments/assets/7e05c198-c4ac-459b-a125-3ff00430f4d7)
 *Saving the analysis results to a file.*
 
 ---
