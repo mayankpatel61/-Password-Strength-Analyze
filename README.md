@@ -34,7 +34,7 @@ This project is a **Python-based tool** that evaluates the strength of a passwor
 ### Steps
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/password-strength-analyzer.git
+   git clone https://github.com/mayankpatel61/password-strength-analyzer.git
    cd password-strength-analyzer
 
 ## Screenshots
